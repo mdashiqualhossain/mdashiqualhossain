@@ -76,4 +76,35 @@
 <!--     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  --> 
 </p>
+### 👉 Designing
+<p align="left">
+  &emsp;
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  </a>
+  &emsp;
+  
+ <!--  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+
+     &emsp;
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  </a>
+    -->
+    
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ </p>
 
