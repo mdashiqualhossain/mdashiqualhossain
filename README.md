@@ -13,7 +13,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-## 🛠️ My Skills
+
 
 <p align="left"> 
   
@@ -39,7 +39,8 @@
 </p>
 
 
-## 👉  Development
+
+### 👉 Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -61,7 +62,7 @@
  
 </p>
 
-## 👉 Databases & Cloud Hosting
+### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -77,7 +78,9 @@
 <!--     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  --> 
 </p>
-## 👉 Designing
+
+### 👉 Designing
+
 <p align="left">
   &emsp;
   <a href="https://www.figma.com/" target="_blank"> 
@@ -108,6 +111,7 @@
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
  </p>
+ 
   ### 👉 Software & Tools
  
 <p>
@@ -137,7 +141,8 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+
+### 📊 Github Stats (Expand to View) 
 
 
 <details> 
