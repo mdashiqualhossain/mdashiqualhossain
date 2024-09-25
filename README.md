@@ -142,7 +142,7 @@
 <br/>
 
 
-### 📊 Github Stats (Expand to View) 
+<!--  ### 📊 Github Stats (Expand to View) 
 
 
 <details> 
@@ -152,7 +152,7 @@
     <a href="https://github.com/mdashiqualhossain/github-readme-stats"><img alt="Ashiqual's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdashiqualhossain&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp; -->
-  <br/>
+  <!--  <br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashiqualhossain&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -168,7 +168,7 @@
 
 </details>
 -->
-<br/>
+<!-- <br/> -->
 
 ### 🙋‍♀️ Let's Connect
 
