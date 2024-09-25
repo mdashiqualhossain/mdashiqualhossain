@@ -38,7 +38,7 @@
 </p>
 
 
-### 👉  Development
+## 👉  Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -60,7 +60,7 @@
  
 </p>
 
-### 👉 Databases & Cloud Hosting
+## 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -76,7 +76,7 @@
 <!--     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  --> 
 </p>
-### 👉 Designing
+## 👉 Designing
 <p align="left">
   &emsp;
   <a href="https://www.figma.com/" target="_blank"> 
