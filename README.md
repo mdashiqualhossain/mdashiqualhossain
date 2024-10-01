@@ -104,10 +104,10 @@
   </a>
     -->
     
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+ <!-- <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
   </a>
-  &emsp;
+  &emsp; -->
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
