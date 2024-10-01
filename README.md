@@ -88,9 +88,10 @@
   </a>
   &emsp;
   
- <!--  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
+  <!--
   &emsp;
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
     <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
