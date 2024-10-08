@@ -143,7 +143,7 @@
 <br/>
 
 
-<!--  ### 📊 Github Stats (Expand to View) 
+  ### 📊 Github Stats (Expand to View) 
 
 
 <details> 
@@ -160,7 +160,7 @@
   </p>
 </details>
 
-<!--
+
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
