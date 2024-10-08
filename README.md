@@ -154,7 +154,7 @@
 <br/>
   &nbsp; -->
     <br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashiqualhossain&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashiqualhossain&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>-->
   <!--<br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
