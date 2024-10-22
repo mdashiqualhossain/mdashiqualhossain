@@ -62,7 +62,7 @@
  
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases & Cloud Hosting.
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -79,7 +79,7 @@
  --> 
 </p>
 
-### 👉 Designing
+### 👉 Designing.
 
 <p align="left">
   &emsp;
