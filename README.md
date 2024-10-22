@@ -7,12 +7,12 @@
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=md_ashiqual_hossain&label=Profile%20views&color=0e75b6&style=plastic" alt="md_ashiqual_hossain" /> </p> -->
 
-## 🔥 Streak Stats
+## 🔥 Streak Stats.
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdashiqualhossain&theme=radical" alt="mdashiqualhossain"  /></p>
 
-## 🛠️ My Skills
+## 🛠️ My Skills.
 
-### 👉 Programming languages
+### 👉 Programming languages.
 
 
 <p align="left"> 
@@ -40,7 +40,7 @@
 
 
 
-### 👉 Development
+### 👉 Development.
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
