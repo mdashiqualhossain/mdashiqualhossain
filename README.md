@@ -113,7 +113,7 @@
   </a>
  </p>
  
-  ### 👉 Software & Tools
+  ### 👉 Software & Tools.
  
 <p>
 <!--   &emsp;
