@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdashiqualhossain&theme=radical" alt="mdashiqualhossain"  /></p>
 
-## 🛠️ My Skills.
+## 🛠️ My Skills
 
 ### 👉 Programming languages.
 
