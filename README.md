@@ -80,7 +80,7 @@
  --> 
 </p>
 
-### 👉 Designing.
+### 👉 Designing
 
 <p align="left">
   &emsp;
