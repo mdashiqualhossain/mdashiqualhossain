@@ -13,7 +13,7 @@
 
 ## 🛠️ My Skills.
 
-### 👉 Programming languages.
+### 👉 Programming languages
 
 
 <p align="left"> 
